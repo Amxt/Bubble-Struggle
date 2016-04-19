@@ -1,0 +1,446 @@
+TextureSheet.png
+size: 2048, 4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BestBubble
+  rotate: false
+  xy: 547, 803
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Black
+  rotate: false
+  xy: 547, 1015
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Bpop1
+  rotate: false
+  xy: 1, 3793
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Bpop2
+  rotate: false
+  xy: 303, 3765
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Bpop3
+  rotate: false
+  xy: 605, 3765
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Bubble
+  rotate: false
+  xy: 547, 1227
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Bubble2
+  rotate: false
+  xy: 547, 1439
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Bubble3
+  rotate: false
+  xy: 547, 1651
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Bubble4
+  rotate: false
+  xy: 547, 1863
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Bubble5
+  rotate: false
+  xy: 275, 3353
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1
+Bubble6
+  rotate: false
+  xy: 687, 3353
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1
+BubbleEyes
+  rotate: false
+  xy: 1099, 3303
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Dust3
+  rotate: false
+  xy: 547, 2075
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+FillBubble1
+  rotate: false
+  xy: 547, 2287
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+FillBubble2
+  rotate: false
+  xy: 1061, 2199
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+FillBubble3
+  rotate: false
+  xy: 1273, 2199
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+FillBubble4
+  rotate: false
+  xy: 1209, 3705
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+HighScore
+  rotate: false
+  xy: 803, 1
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+PlayBub
+  rotate: false
+  xy: 1, 1
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+PlayBubble
+  rotate: false
+  xy: 1421, 3705
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+PlayButtonDown
+  rotate: false
+  xy: 1633, 2199
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+PlayButtonUp
+  rotate: false
+  xy: 1633, 2411
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Pop1
+  rotate: false
+  xy: 1357, 2411
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Pop2
+  rotate: false
+  xy: 1633, 2623
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Pop3
+  rotate: false
+  xy: 1357, 2623
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+Pop4
+  rotate: false
+  xy: 1633, 2835
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+RePlayDown
+  rotate: false
+  xy: 907, 3765
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+RePlayUp
+  rotate: false
+  xy: 759, 2199
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Score
+  rotate: false
+  xy: 1405, 1
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+Title
+  rotate: false
+  xy: 1, 2551
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+TriesBubble
+  rotate: false
+  xy: 1357, 3047
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 3353
+  size: 272, 438
+  orig: 272, 438
+  offset: 0, 0
+  index: -1
+bgLayer2
+  rotate: false
+  xy: 803, 403
+  size: 544, 920
+  orig: 544, 920
+  offset: 0, 0
+  index: -1
+bgLayer3
+  rotate: false
+  xy: 1349, 403
+  size: 544, 920
+  orig: 544, 920
+  offset: 0, 0
+  index: -1
+bgLayer4
+  rotate: false
+  xy: 1, 803
+  size: 544, 872
+  orig: 544, 872
+  offset: 0, 0
+  index: -1
+bgLayer5
+  rotate: false
+  xy: 759, 1325
+  size: 544, 872
+  orig: 544, 872
+  offset: 0, 0
+  index: -1
+bgLayer6
+  rotate: false
+  xy: 1, 1677
+  size: 544, 872
+  orig: 544, 872
+  offset: 0, 0
+  index: -1
+bgLayer7
+  rotate: false
+  xy: 1305, 1325
+  size: 544, 872
+  orig: 544, 872
+  offset: 0, 0
+  index: -1
+drop
+  rotate: false
+  xy: 1357, 2835
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+drop2
+  rotate: false
+  xy: 1633, 3047
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 453, 2551
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+touch
+  rotate: false
+  xy: 905, 2501
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+zz0
+  rotate: false
+  xy: 2007, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz1
+  rotate: false
+  xy: 2010, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz10
+  rotate: false
+  xy: 2013, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz11
+  rotate: false
+  xy: 2016, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz12
+  rotate: false
+  xy: 2019, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz13
+  rotate: false
+  xy: 2022, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz14
+  rotate: false
+  xy: 2025, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz15
+  rotate: false
+  xy: 2028, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz16
+  rotate: false
+  xy: 2031, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz17
+  rotate: false
+  xy: 2034, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz18
+  rotate: false
+  xy: 2037, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz19
+  rotate: false
+  xy: 2040, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz2
+  rotate: false
+  xy: 2043, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz20
+  rotate: false
+  xy: 2046, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz3
+  rotate: false
+  xy: 2007, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz4
+  rotate: false
+  xy: 2010, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz5
+  rotate: false
+  xy: 2013, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz6
+  rotate: false
+  xy: 2016, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz7
+  rotate: false
+  xy: 2019, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz8
+  rotate: false
+  xy: 2022, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zz9
+  rotate: false
+  xy: 2025, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
